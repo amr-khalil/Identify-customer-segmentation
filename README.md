@@ -1,3 +1,3 @@
 # Identify-customer-segmentation
 
-![alt Customer Segments](imgs/RFM Segments.png)
+![Segments](RFM Segments.png)
